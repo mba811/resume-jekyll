@@ -1,18 +1,18 @@
-title: Résumé
+title: Resume | Tsong khapa
 resume:
-  name: YOUR NAME
+  name: Tsong khapa
   jobtitle: Your Job Title
   contact:
     - icon: fa-envelope
-      text: youremail@example.com
+      text: ztd811@qq.com
     - icon: fa-phone-square
-      text: your-phone-num
+      text: (+86) 13888431004
     - icon: fa-globe
-      text: your-website.com
-      link: https://crispgm.github.io/resume/resume.html
+      text: https://www.72moc.com/
+      link: https://mba811.github.io/resume/resume.html
     - icon: fa-github
       text: your-github
-      link: https://github.com/crispgm/resume
+      link: https://github.com/mba811/resume
   education:
     - university: Your First University
       duration: Jul 2011 - Dec 2012
